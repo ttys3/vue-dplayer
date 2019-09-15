@@ -35,7 +35,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "dplayer": "^1.25.0",
+    "dplayer": "https://github.com/ttys3/DPlayer.git",
     "vue-github-badge": "1.0.1"
   }
 }
