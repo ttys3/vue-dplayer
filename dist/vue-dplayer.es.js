@@ -1,5 +1,5 @@
 /*!
- * vue-dplayer v0.0.12
+ * vue-dplayer v0.0.13
  * (c) 2019-present sinchang <sinchangwen@gmail.com>
  * Released under the MIT License.
  */
