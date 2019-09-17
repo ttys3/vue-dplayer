@@ -31,7 +31,7 @@
   "author": "sinchang <sinchangwen@gmail.com>",
   "devDependencies": {
     "bili": "2.0.0",
-    "poi": "9.6.13"
+    "poi": "12.7.2"
   },
   "license": "MIT",
   "dependencies": {
