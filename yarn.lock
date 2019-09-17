@@ -2072,8 +2072,8 @@ dot-prop@^4.1.0, dot-prop@^4.1.1:
     is-obj "^1.0.0"
 
 "dplayer@https://github.com/ttys3/DPlayer.git":
-  version "1.25.2"
-  resolved "https://github.com/ttys3/DPlayer.git#230f005683c4614f724e95306b058f55ed0fd066"
+  version "1.25.3"
+  resolved "https://github.com/ttys3/DPlayer.git#823c82e123d9c030af46b4837404da049ceb4b6a"
   dependencies:
     axios "0.19.0"
     balloon-css "^0.5.0"
