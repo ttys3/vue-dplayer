@@ -2072,8 +2072,8 @@ dot-prop@^4.1.0, dot-prop@^4.1.1:
     is-obj "^1.0.0"
 
 "dplayer@https://github.com/ttys3/DPlayer.git":
-  version "1.25.3"
-  resolved "https://github.com/ttys3/DPlayer.git#823c82e123d9c030af46b4837404da049ceb4b6a"
+  version "1.25.4"
+  resolved "https://github.com/ttys3/DPlayer.git#4b8a354e98d936b9f24b2ce88235b7461e8601ea"
   dependencies:
     axios "0.19.0"
     balloon-css "^0.5.0"
@@ -3145,9 +3145,9 @@ is-buffer@^1.1.5:
   resolved "https://registry.npmjs.org/is-buffer/-/is-buffer-1.1.6.tgz#efaa2ea9daa0d7ab2ea13a97b2b8ad51fefbe8be"
 
 is-buffer@^2.0.2:
-  version "2.0.3"
-  resolved "https://registry.npm.taobao.org/is-buffer/download/is-buffer-2.0.3.tgz#4ecf3fcf749cbd1e472689e109ac66261a25e725"
-  integrity sha1-Ts8/z3ScvR5HJonhCaxmJhol5yU=
+  version "2.0.4"
+  resolved "https://registry.npm.taobao.org/is-buffer/download/is-buffer-2.0.4.tgz#3e572f23c8411a5cfd9557c849e3665e0b290623"
+  integrity sha1-PlcvI8hBGlz9lVfISeNmXgspBiM=
 
 is-builtin-module@^1.0.0:
   version "1.0.0"
