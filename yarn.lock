@@ -3270,12 +3270,18 @@ domutils@1.5.1:
     dom-serializer "0"
     domelementtype "1"
 
+domutils@^1.7.0:
+  version "1.7.0"
+  resolved "https://registry.nlark.com/domutils/download/domutils-1.7.0.tgz#56ea341e834e06e6748af7a1cb25da67ea9f8c2a"
+  integrity sha1-Vuo0HoNOBuZ0ivehyyXaZ+qfjCo=
+  dependencies:
+    dom-serializer "0"
+    domelementtype "1"
 
-dot-prop@^4.1.0, dot-prop@^4.1.1:
+dot-prop@^4.1.0:
   version "4.2.1"
   resolved "https://registry.yarnpkg.com/dot-prop/-/dot-prop-4.2.1.tgz#45884194a71fc2cda71cbb4bceb3a4dd2f433ba4"
   integrity sha512-l0p4+mIuJIua0mhxGoh4a+iNL9bmeK5DvnSVQa6T0OhrVmaEa1XScX5Etc673FePCJOArq/4Pa2cLGODUWTPOQ==
-
   dependencies:
     is-obj "^1.0.0"
 
@@ -3285,6 +3291,14 @@ dot-prop@^5.2.0:
   integrity sha512-uEUyaDKoSQ1M4Oq8l45hSE26SnTxL6snNnqvK/VWx5wJhmff5z0FUVJDKDanor/6w3kzE3i7XZOk+7wC0EXr1A==
   dependencies:
     is-obj "^2.0.0"
+
+"dplayer@https://github.com/ttys3/DPlayer":
+  version "1.25.12"
+  resolved "https://github.com/ttys3/DPlayer#d279ca2918398aaca834205ec5435169ca8b7f9d"
+  dependencies:
+    axios "0.19.0"
+    balloon-css "^0.5.0"
+    promise-polyfill "8.1.0"
 
 "dplayer@https://github.com/ttys3/DPlayer.git":
   version "1.25.12"
