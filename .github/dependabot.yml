@@ -1,0 +1,21 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: elliptic
+    versions:
+    - 6.5.3
+    - 6.5.4
+  - dependency-name: poi
+    versions:
+    - 12.10.3
+  - dependency-name: http-proxy
+    versions:
+    - 1.18.1
+  - dependency-name: lodash
+    versions:
+    - 4.17.20
